@@ -5,6 +5,10 @@ Participação no Ignite Lab | ReactJS - Rocketseat (20 a 24/06/2022).
 Clone da API no [GraphCMS](http://rseat.in/lab-graphcms).  
 Protótipo no [Figma](https://www.figma.com/file/zx6sjXsgKp0BLJreGPfQxA/Plataforma-de-evento---Ignite-Lab-(Community)).
 
+<h1 align="center">
+    <img alt = "Web app" src = "./.github/home.png" width = "100%" />
+</h1># Event plataform
+
 ## Ferramentas/Tecnologias
 
 - Vite
